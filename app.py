@@ -89,4 +89,4 @@ c1, c2, c3 = st.columns(3) #generar un nuevo canva (st.algo)
 
 with c1:
     st.subheader(f':{co2}')
-    st.subheader(f'{:leaf_rating:} ' )
+    st.subheader(f'{leaf_rating} ' )
